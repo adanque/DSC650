@@ -1,0 +1,189 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "airline": {
+      "type": "object",
+      "properties": {
+        "active": {
+          "type": "boolean"
+        },
+        "airline_id": {
+          "type": "integer"
+        },
+        "alias": {
+          "type": "string"
+        },
+        "callsign": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "iata": {
+          "type": "string"
+        },
+        "icao": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "active",
+        "airline_id",
+        "alias",
+        "callsign",
+        "country",
+        "iata",
+        "icao",
+        "name"
+      ]
+    },
+    "codeshare": {
+      "type": "boolean"
+    },
+    "dst_airport": {
+      "type": "object",
+      "properties": {
+        "airport_id": {
+          "type": "integer"
+        },
+        "altitude": {
+          "type": "integer"
+        },
+        "city": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "dst": {
+          "type": "string"
+        },
+        "iata": {
+          "type": "string"
+        },
+        "icao": {
+          "type": "string"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "name": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        },
+        "timezone": {
+          "type": "number"
+        },
+        "type": {
+          "type": "string"
+        },
+        "tz_id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "airport_id",
+        "altitude",
+        "city",
+        "country",
+        "dst",
+        "iata",
+        "icao",
+        "latitude",
+        "longitude",
+        "name",
+        "source",
+        "timezone",
+        "type",
+        "tz_id"
+      ]
+    },
+    "equipment": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "src_airport": {
+      "type": "object",
+      "properties": {
+        "airport_id": {
+          "type": "integer"
+        },
+        "altitude": {
+          "type": "integer"
+        },
+        "city": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "dst": {
+          "type": "string"
+        },
+        "iata": {
+          "type": "string"
+        },
+        "icao": {
+          "type": "string"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "name": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        },
+        "timezone": {
+          "type": "number"
+        },
+        "type": {
+          "type": "string"
+        },
+        "tz_id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "airport_id",
+        "altitude",
+        "city",
+        "country",
+        "dst",
+        "iata",
+        "icao",
+        "latitude",
+        "longitude",
+        "name",
+        "source",
+        "timezone",
+        "type",
+        "tz_id"
+      ]
+    }
+  },
+  "required": [
+    "airline",
+    "codeshare",
+    "dst_airport",
+    "equipment",
+    "src_airport"
+  ]
+}

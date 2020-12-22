@@ -1,0 +1,8 @@
+20/11/28 08:53:43 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+[Stage 0:>                                                          (0 + 2) / 2][Stage 0:=============================>                             (1 + 1) / 2]                                                                                Pi is roughly 3.145000
+SUCCESS: The process with PID 25056 (child process of PID 25320) has been terminated.
+SUCCESS: The process with PID 25320 (child process of PID 27052) has been terminated.
+SUCCESS: The process with PID 27052 (child process of PID 25592) has been terminated.
