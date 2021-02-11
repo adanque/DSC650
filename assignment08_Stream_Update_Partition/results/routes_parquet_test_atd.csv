@@ -1,0 +1,43 @@
+	airline_alias	airline_callsign	airline_country	airline_iata	airline_icao	airline_name	dst_airport_name	src_airport_name	t	DateTimeOffset
+41586	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Haikou Meilan International Airport	Chongqing Jiangbei International Airport	069.7	2021-01-14 18:12:23.894602
+41593	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Lijiang Airport	Chongqing Jiangbei International Airport	069.7	2021-01-14 18:12:23.894602
+41595	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Ningbo Lishe International Airport	Chongqing Jiangbei International Airport	069.7	2021-01-14 18:12:23.894602
+41601	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Jieyang Chaoshan International Airport	Chongqing Jiangbei International Airport	069.7	2021-01-14 18:12:23.894602
+41615	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Zhanjiang Airport	Chongqing Jiangbei International Airport	069.7	2021-01-14 18:12:23.894602
+41616	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Chongqing Jiangbei International Airport	Changsha Huanghua International Airport	069.7	2021-01-14 18:12:23.894602
+41622	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Xiamen Gaoqi International Airport	Changsha Huanghua International Airport	069.7	2021-01-14 18:12:23.894602
+41635	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Phuket International Airport	Chengdu Shuangliu International Airport	069.7	2021-01-14 18:12:23.894602
+41636	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Incheon International Airport	Chengdu Shuangliu International Airport	069.7	2021-01-14 18:12:23.894602
+41641	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Nanchang Changbei International Airport	Chengdu Shuangliu International Airport	069.7	2021-01-14 18:12:23.894602
+41646	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Lijiang Airport	Chengdu Shuangliu International Airport	069.7	2021-01-14 18:12:23.894602
+41656	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Taoxian Airport	Chengdu Shuangliu International Airport	069.7	2021-01-14 18:12:23.894602
+41657	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Shijiazhuang Daguocun International Airport	Chengdu Shuangliu International Airport	069.7	2021-01-14 18:12:23.894602
+41682	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Chengdu Shuangliu International Airport	Daocheng Yading Airport	069.7	2021-01-14 18:12:23.894602
+41692	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Nanjing Lukou Airport	Dayong Airport	069.7	2021-01-14 18:12:23.894602
+41697	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Chongqing Jiangbei International Airport	Haikou Meilan International Airport	069.7	2021-01-14 18:12:23.894602
+41701	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Zhuhai Jinwan Airport	Haikou Meilan International Airport	069.7	2021-01-14 18:12:23.894602
+41735	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Taiping Airport	Yinchuan Airport	069.7	2021-01-14 18:12:23.894602
+41741	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Longdongbao Airport	Quanzhou Jinjiang International Airport	069.7	2021-01-14 18:12:23.894602
+41746	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Chengdu Shuangliu International Airport	Nanchang Changbei International Airport	069.7	2021-01-14 18:12:23.894602
+41749	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Zhengzhou Xinzheng International Airport	Kunming Changshui International Airport	069.7	2021-01-14 18:12:23.894602
+41763	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Xi'an Xianyang International Airport	Kunming Changshui International Airport	069.7	2021-01-14 18:12:23.894602
+41768	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Chengdu Shuangliu International Airport	Longdongbao Airport	069.7	2021-01-14 18:12:23.894602
+41769	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Hangzhou Xiaoshan International Airport	Longdongbao Airport	069.7	2021-01-14 18:12:23.894602
+41825	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Wanxian Airport	Beijing Capital International Airport	069.7	2021-01-14 18:12:23.894602
+41827	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Chongqing Jiangbei International Airport	Shanghai Pudong International Airport	069.7	2021-01-14 18:12:23.894602
+41830	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Chongqing Jiangbei International Airport	Bao'anying Airport	069.7	2021-01-14 18:12:23.894602
+41832	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Nanning Wuxu Airport	Tan Son Nhat International Airport	069.7	2021-01-14 18:12:23.894602
+41837	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Taiyuan Wusu Airport	Taoxian Airport	069.7	2021-01-14 18:12:23.894602
+41844	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Shanghai Pudong International Airport	Saipan International Airport	069.7	2021-01-14 18:12:23.894602
+41850	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Guilin Liangjiang International Airport	Sanya Phoenix International Airport	069.7	2021-01-14 18:12:23.894602
+41890	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Xi'an Xianyang International Airport	Ürümqi Diwopu International Airport	069.7	2021-01-14 18:12:23.894602
+41896	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Sanya Phoenix International Airport	Wenzhou Longwan International Airport	069.7	2021-01-14 18:12:23.894602
+41928	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Kunming Changshui International Airport	Xiamen Gaoqi International Airport	069.7	2021-01-14 18:12:23.894602
+41934	Swiss European	SI CHUAN	China	3U	CSC	Sichuan Airlines	Mianyang Airport	Xining Caojiabu Airport	069.7	2021-01-14 18:12:23.894602
+41971	FlyAsianXpress	GAZPROMAVIA	Russia	4G	GZP	Gazpromavia	Vnukovo International Airport	Nadym Airport	069.7	2021-01-14 18:12:23.894602
+41972	FlyAsianXpress	GAZPROMAVIA	Russia	4G	GZP	Gazpromavia	Nadym Airport	Sovetskiy Airport	069.7	2021-01-14 18:12:23.894602
+41976	FlyAsianXpress	GAZPROMAVIA	Russia	4G	GZP	Gazpromavia	Novy Urengoy Airport	Roshchino International Airport	069.7	2021-01-14 18:12:23.894602
+41985	ANA All Nippon Airways	AEROCONDOR	Portugal	2B	ARD	Aerocondor	Kazan International Airport	Astrakhan Airport	069.7	2021-01-14 18:12:23.894602
+41989	ANA All Nippon Airways	AEROCONDOR	Portugal	2B	ARD	Aerocondor	Kazan International Airport	Domodedovo International Airport	069.7	2021-01-14 18:12:23.894602
+41998	ANA All Nippon Airways	AEROCONDOR	Portugal	2B	ARD	Aerocondor	Astrakhan Airport	Kazan International Airport	069.7	2021-01-14 18:12:23.894602
+41999	ANA All Nippon Airways	AEROCONDOR	Portugal	2B	ARD	Aerocondor	Chelyabinsk Balandino Airport	Kazan International Airport	069.7	2021-01-14 18:12:23.894602
